@@ -1,0 +1,16 @@
+io\swagger\service\ProveedorServiceImpl.class
+io\swagger\Swagger2SpringBoot.class
+io\swagger\api\ApiOriginFilter.class
+io\swagger\configuration\HomeController.class
+io\swagger\api\ParamApiController.class
+io\swagger\service\ProveedorService.class
+io\swagger\util\CustomErrorType.class
+io\swagger\configuration\DataBaseConfiguration.class
+io\swagger\dao\ProveedorDao.class
+io\swagger\dao\ProveedorDaoImpl.class
+io\swagger\api\ApiResponseMessage.class
+io\swagger\api\NotFoundException.class
+io\swagger\api\ApiException.class
+io\swagger\configuration\SwaggerDocumentationConfig.class
+io\swagger\dao\AbstractSession.class
+io\swagger\model\Proveedor.class
